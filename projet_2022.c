@@ -58,7 +58,7 @@ float prix(Rental loc);
 
 
 int main(void){
-    printf("---------- Système de gestion de location de voitures ----------\n                 Sofiane Djabali & Dany Sedrati\n\n");
+    printf("---------- Système de gestion de location de voitures ----------\n                 Sofiane Djabali\n\n");
     Liste *liste = initialisation();
     suppression_init(liste);
 
